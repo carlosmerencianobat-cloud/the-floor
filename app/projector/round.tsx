@@ -65,12 +65,8 @@ export default function Round({
   };
 
   const examples = useMemo(() => {
-    if (searchParams.get("debug") === "true") {
-      return shuffle(rawExamples);
-    }
-
-    return rawExamples;
-  }, [rawExamples, searchParams]);
+  return shuffle([...rawExamples]);
+}, [rawExamples]);
 
   useEffect(() => {
     revealExampleNameRef.current = revealExampleName;
