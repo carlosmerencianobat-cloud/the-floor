@@ -8444,7 +8444,7 @@ export const CATEGORY_METADATA: Record<Category, CategoryMetadata> = {
   "MLB Teams": MlbTeamsCategory,
   Movies: MoviesCategory,
   "Pop divas": PopDivasCategory,
-  Presentadores: PresentadoresCategory,
+  Pokemon: PresentadoresCategory,
   "Reality tv shows": RealityTvShowsCategory,
   "Rom Coms": RomComsCategory,
   "Spirit Halloween Catalogue": SpiritHalloweenCatalogueCategory,
