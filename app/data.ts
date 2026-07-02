@@ -303,27 +303,27 @@ const PresentadoresCategory: CategoryMetadata = {
     {
       name: "Jorge Javier Vázquez",
       image: "jorge-javier-vazquez.png",
-      alternatives: [Jorge Javier],
+      alternatives: ["Jorge Javier"],
     },
     {
       name: "Sonsoles Ónega",
       image: "sonsoles-onega.png",
-      alternatives: [Sonsoles],
+      alternatives: ["Sonsoles"],
     },
     {
       name: "David Broncano",
       image: "david-broncano.png",
-      alternatives: [Broncano],
+      alternatives: ["Broncano"],
     },
     {
       name: "Pablo Motos",
       image: "pablo-motos.png",
-      alternatives: [Motos],
+      alternatives: ["Motos"],
     },
     {
       name: "Ana Rosa Quintana",
       image: "ana-rosa-quintana.png",
-      alternatives: [Ana Rosa],
+      alternatives: ["Ana Rosa"],
     },
   ],
 };
