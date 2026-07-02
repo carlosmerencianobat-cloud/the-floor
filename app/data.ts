@@ -225,7 +225,7 @@ type UsedCategories = (typeof FLOOR_DATA_CONST)[number]["category"];
 type UnusedCategoriesFromConst = Exclude<Category, UsedCategories>;
 
 export type Category =
-  | "Pokemon"
+  | "Presentadores de televisión"
   | "Broadway shows"
   | "Disney characters"
   | "Kitchen gadgets"
